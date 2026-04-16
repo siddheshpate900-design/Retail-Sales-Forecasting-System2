@@ -127,6 +127,7 @@ streamlit run app.py
 ## 👨‍💻 Author
 
 Siddhesh Pate
+Linkdein: www.linkedin.com/in/siddheshpate2007
 
 ---
 
